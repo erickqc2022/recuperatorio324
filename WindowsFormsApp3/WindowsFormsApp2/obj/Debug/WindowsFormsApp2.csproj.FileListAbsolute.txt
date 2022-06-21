@@ -1,0 +1,30 @@
+D:\proyectos visualBasic\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\proyectos visualBasic\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\proyectos visualBasic\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\proyectos visualBasic\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\proyectos visualBasic\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\proyectos visualBasic\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\proyectos visualBasic\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\proyectos visualBasic\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\proyectos visualBasic\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\proyectos visualBasic\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\proyectos visualBasic\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\proyectos visualBasic\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\proyectos visualBasic\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\proyectos visualBasic\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+D:\proyectos visualBasic\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\proyectos visualBasic\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\proyectos visualBasic\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\proyectos visualBasic\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\proyectos visualBasic\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\proyectos visualBasic\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\DSIE\Desktop\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\DSIE\Desktop\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\DSIE\Desktop\WindowsFormsApp3\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\DSIE\Desktop\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\DSIE\Desktop\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\DSIE\Desktop\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\DSIE\Desktop\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\DSIE\Desktop\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\DSIE\Desktop\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\DSIE\Desktop\WindowsFormsApp3\WindowsFormsApp2\obj\Debug\Detection_of_the_contours_of_objects_in_the_picture.MainForm.resources
